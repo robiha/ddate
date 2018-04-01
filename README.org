@@ -26,18 +26,18 @@
    The DAYS OF THE WEEK are named from the five basic elements: SWEET,
    BOOM, PUNGENT, PRICKLE, and ORANGE.
 
-   1.  Sweetmorn                       
-   2.  Boomtime                        
-   3.  Pungenday                       
-   4.  Prickle-Prickle                 
-   5.  Setting Orange                  
+   1.  Sweetmorn
+   2.  Boomtime
+   3.  Pungenday
+   4.  Prickle-Prickle
+   5.  Setting Orange
 *** HOLIDAYS
-**** Apostle Holydays                    
-     1.  Mungday                             
-     2.  Mojoday                             
-     3.  Syaday                              
-     4.  Zaraday                             
-     5.  Maladay                             
+**** Apostle Holydays
+     1.  Mungday
+     2.  Mojoday
+     3.  Syaday
+     4.  Zaraday
+     5.  Maladay
 
      Each occurs on the 5th day of the Season.
 **** Seasons Holydays
